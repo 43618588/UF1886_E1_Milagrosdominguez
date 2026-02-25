@@ -3,11 +3,11 @@
     "version": "1.0.0",
     "category": "Sales",
     "summary": "Añade referencia interna y código de barras al reporte del pedido",
-    "depends": ["sales"],
+    "depends": ["sale"],
     "data": [
-        "views/sale_report.xml",
+        #"views/sale_report.xml",
         ],
-"installable": True,
-"aplication": False,
-"license": "LGPL-3"
+    "installable": True,
+    "application": False,
+    "license": "LGPL-3"
 }
