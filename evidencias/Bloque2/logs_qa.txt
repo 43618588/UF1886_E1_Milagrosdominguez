@@ -1,0 +1,200 @@
+2026-02-26 12:18:04,301 1 INFO ? werkzeug: 172.22.0.1 - - [26/Feb/2026 12:18:04] "GET /web/static/fonts/lato/Lato-Hai-webfont.woff HTTP/1.1" 200 - 0 0.000 0.006
+2026-02-26 12:18:04,311 1 INFO ? werkzeug: 172.22.0.1 - - [26/Feb/2026 12:18:04] "GET /web/static/fonts/lato/Lato-Bla-webfont.woff HTTP/1.1" 200 - 0 0.000 0.005
+2026-02-26 12:18:06,596 1 INFO odoo_qa odoo.addons.base.models.ir_actions_report: The PDF report has been generated for model: sale.order, records [1]. 
+2026-02-26 12:18:06,604 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/mail.compose.message/onchange HTTP/1.1" 200 - 145 0.107 2.686
+2026-02-26 12:18:06,631 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/mail.template/search_read HTTP/1.1" 200 - 2 0.003 0.006
+2026-02-26 12:18:06,647 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/res.partner/get_formview_id HTTP/1.1" 200 - 1 0.002 0.007
+2026-02-26 12:18:06,661 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/mail.template/search_read HTTP/1.1" 200 - 2 0.004 0.008
+2026-02-26 12:18:06,706 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/res.partner/get_views HTTP/1.1" 200 - 15 0.020 0.020
+2026-02-26 12:18:06,728 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/res.partner/web_read HTTP/1.1" 200 - 4 0.006 0.008
+2026-02-26 12:18:25,245 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:25] "POST /web/dataset/call_kw/res.partner/onchange HTTP/1.1" 200 - 6 0.007 0.216
+2026-02-26 12:18:26,530 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:26] "POST /web/dataset/call_kw/res.partner/web_save HTTP/1.1" 200 - 17 0.022 0.024
+2026-02-26 12:18:26,572 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:26] "POST /web/dataset/call_kw/res.partner/web_read HTTP/1.1" 200 - 4 0.007 0.014
+2026-02-26 12:18:28,461 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /web/dataset/call_kw/mail.compose.message/web_save HTTP/1.1" 200 - 18 0.014 0.019
+2026-02-26 12:18:28,644 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /web/dataset/call_kw/mail.compose.message/action_send_mail HTTP/1.1" 200 - 105 0.080 0.092
+2026-02-26 12:18:28,711 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /mail/thread/messages HTTP/1.1" 200 - 22 0.033 0.018
+2026-02-26 12:18:28,763 1 INFO ? werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "GET /web/static/img/mimetypes/pdf.svg HTTP/1.1" 200 - 0 0.000 0.007
+2026-02-26 12:18:28,785 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /web/dataset/call_kw/sale.order/web_read HTTP/1.1" 200 - 39 0.075 0.048
+2026-02-26 12:18:28,841 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /mail/thread/data HTTP/1.1" 200 - 27 0.025 0.022
+2026-02-26 12:18:28,858 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /web/dataset/call_kw/ir.attachment/register_as_main_attachment HTTP/1.1" 200 - 4 0.004 0.006
+2026-02-26 12:18:32,460 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:32] "POST /web/dataset/call_button/sale.order/action_confirm HTTP/1.1" 200 - 125 0.141 0.121
+2026-02-26 12:18:32,513 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:32] "POST /mail/thread/messages HTTP/1.1" 200 - 19 0.023 0.013
+2026-02-26 12:18:32,576 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:32] "POST /web/dataset/call_kw/sale.order/web_read HTTP/1.1" 200 - 48 0.054 0.043
+2026-02-26 12:18:32,632 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:32] "POST /mail/thread/data HTTP/1.1" 200 - 27 0.026 0.021
+2026-02-26 12:18:45,797 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:45] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 6 0.013 0.027
+2026-02-26 12:18:45,823 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:45] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 3 0.016 0.043
+2026-02-26 12:18:45,874 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:45] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 50 0.082 0.031
+2026-02-26 12:18:54,041 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:54] "POST /web/dataset/call_kw/stock.picking.type/web_search_read HTTP/1.1" 200 - 12 0.014 0.018
+2026-02-26 12:19:01,390 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:01] "POST /web/action/run HTTP/1.1" 200 - 16 0.005 0.013
+2026-02-26 12:19:01,434 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:01] "POST /web/dataset/call_kw/stock.picking/web_search_read HTTP/1.1" 200 - 12 0.014 0.013
+2026-02-26 12:19:06,972 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:06] "POST /web/dataset/call_kw/stock.picking/web_read HTTP/1.1" 200 - 23 0.023 0.018
+2026-02-26 12:19:07,006 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:07] "POST /web/dataset/call_kw/stock.picking.type/has_access HTTP/1.1" 200 - 1 0.002 0.007
+2026-02-26 12:19:07,148 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:07] "POST /mail/thread/data HTTP/1.1" 200 - 26 0.045 0.067
+2026-02-26 12:19:07,149 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:07] "POST /mail/thread/messages HTTP/1.1" 200 - 17 0.043 0.025
+2026-02-26 12:19:10,210 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:10] "POST /web/dataset/call_button/stock.picking/button_validate HTTP/1.1" 200 - 82 0.079 0.091
+2026-02-26 12:19:10,289 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:10] "POST /mail/thread/messages HTTP/1.1" 200 - 19 0.042 0.021
+2026-02-26 12:19:10,295 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:10] "POST /web/dataset/call_kw/stock.picking/web_read HTTP/1.1" 200 - 20 0.043 0.024
+2026-02-26 12:19:10,367 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:10] "POST /mail/thread/data HTTP/1.1" 200 - 21 0.032 0.030
+2026-02-26 12:19:23,967 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:23] "POST /web/action/load HTTP/1.1" 200 - 11 0.010 0.010
+2026-02-26 12:19:24,098 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:24] "POST /web/dataset/call_kw/product.product/get_views HTTP/1.1" 200 - 43 0.031 0.079
+2026-02-26 12:19:24,126 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:24] "POST /web/dataset/call_kw/stock.warehouse/get_current_warehouses HTTP/1.1" 200 - 2 0.009 0.010
+2026-02-26 12:19:24,129 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:24] "POST /web/dataset/call_kw/product.product/search_panel_select_multi_range HTTP/1.1" 200 - 3 0.009 0.011
+2026-02-26 12:19:24,154 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:24] "POST /web/dataset/call_kw/product.product/web_search_read HTTP/1.1" 200 - 3 0.005 0.008
+2026-02-26 12:19:24,235 1 INFO ? werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:24] "GET /web/static/img/smiling_face.svg HTTP/1.1" 200 - 0 0.000 0.005
+2026-02-26 12:19:30,273 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:30] "POST /web/dataset/call_kw/product.template/web_search_read HTTP/1.1" 200 - 16 0.015 0.022
+2026-02-26 12:19:34,893 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:34] "POST /web/dataset/call_kw/product.template/web_read HTTP/1.1" 200 - 52 0.053 0.042
+2026-02-26 12:19:34,966 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:34] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.005 0.014
+2026-02-26 12:19:34,976 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:34] "POST /mail/thread/data HTTP/1.1" 200 - 18 0.030 0.020
+2026-02-26 12:19:51,223 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:51] "POST /web/dataset/call_kw/product.template/onchange HTTP/1.1" 200 - 49 0.066 0.073
+2026-02-26 12:19:58,166 1 WARNING odoo_qa odoo.http: No puede cambiar el seguimiento del inventario de un producto que ya se utilizó. 
+2026-02-26 12:19:58,166 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:58] "POST /web/dataset/call_kw/product.template/web_save HTTP/1.1" 200 - 5 0.010 0.024
+2026-02-26 12:20:08,288 1 WARNING odoo_qa odoo.http: No puede cambiar el seguimiento del inventario de un producto que ya se utilizó. 
+2026-02-26 12:20:08,288 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:08] "POST /web/dataset/call_kw/product.template/web_save HTTP/1.1" 200 - 5 0.010 0.010
+2026-02-26 12:20:32,154 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:32] "POST /web/action/load HTTP/1.1" 200 - 11 0.017 0.015
+2026-02-26 12:20:32,189 1 WARNING odoo_qa odoo.http: No puede cambiar el seguimiento del inventario de un producto que ya se utilizó. 
+2026-02-26 12:20:32,190 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:32] "POST /web/dataset/call_kw/product.template/web_save HTTP/1.1" 200 - 5 0.009 0.010
+2026-02-26 12:20:38,044 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:38] "POST /web/dataset/call_kw/purchase.order/get_views HTTP/1.1" 200 - 86 0.080 0.084
+2026-02-26 12:20:38,066 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:38] "POST /web/dataset/call_kw/purchase.order/web_search_read HTTP/1.1" 200 - 2 0.003 0.009
+2026-02-26 12:20:38,146 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:38] "POST /web/dataset/call_kw/purchase.order/retrieve_dashboard HTTP/1.1" 200 - 13 0.010 0.014
+2026-02-26 12:20:45,070 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:45] "POST /web/dataset/call_kw/purchase.order/onchange HTTP/1.1" 200 - 10 0.017 0.022
+2026-02-26 12:20:59,330 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:59] "POST /web/action/load HTTP/1.1" 200 - 12 0.017 0.014
+2026-02-26 12:20:59,359 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:59] "POST /web/dataset/call_kw/purchase.order/web_search_read HTTP/1.1" 200 - 2 0.004 0.007
+2026-02-26 12:20:59,447 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:59] "POST /web/dataset/call_kw/purchase.order/retrieve_dashboard HTTP/1.1" 200 - 12 0.017 0.016
+2026-02-26 12:21:00,962 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:00] "POST /web/dataset/call_kw/product.template/web_read HTTP/1.1" 200 - 52 0.060 0.044
+2026-02-26 12:21:01,047 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:01] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.014 0.013
+2026-02-26 12:21:01,061 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:01] "POST /mail/thread/data HTTP/1.1" 200 - 18 0.031 0.033
+2026-02-26 12:21:05,437 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:05] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 1 0.002 0.012
+2026-02-26 12:21:05,472 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:05] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 3 0.009 0.035
+2026-02-26 12:21:05,501 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:05] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 50 0.047 0.028
+2026-02-26 12:33:20,018 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:33:20] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 4 0.009 0.043
+2026-02-26 12:33:20,125 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:33:20] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 50 0.112 0.049
+2026-02-26 12:33:25,903 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:33:25] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 50 0.039 0.015
+2026-02-26 12:33:25,947 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:33:25] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 3 0.008 0.019
+2026-02-26 12:34:24,979 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) starting 
+2026-02-26 12:34:24,990 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) done in 0.011s 
+2026-02-26 12:34:24,999 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,003 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) completed 
+2026-02-26 12:34:25,025 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) starting 
+2026-02-26 12:34:25,048 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) done in 0.023s 
+2026-02-26 12:34:25,054 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,062 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) completed 
+2026-02-26 12:34:25,084 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) starting 
+2026-02-26 12:34:25,092 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) done in 0.008s 
+2026-02-26 12:34:25,100 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,107 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) completed 
+2026-02-26 12:34:25,125 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) starting 
+2026-02-26 12:34:25,430 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) done in 0.305s 
+2026-02-26 12:34:25,437 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,441 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) completed 
+2026-02-26 12:34:25,469 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) starting 
+2026-02-26 12:34:25,483 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) done in 0.013s 
+2026-02-26 12:34:25,488 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,493 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) completed 
+2026-02-26 12:34:25,503 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) starting 
+2026-02-26 12:34:25,506 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) done in 0.002s 
+2026-02-26 12:34:25,509 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,512 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) completed 
+2026-02-26 12:35:35,912 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) starting 
+2026-02-26 12:35:35,920 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) done in 0.008s 
+2026-02-26 12:35:35,925 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) processed 0 records, 0 records remaining 
+2026-02-26 12:35:35,929 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) completed 
+2026-02-26 12:18:04,301 1 INFO ? werkzeug: 172.22.0.1 - - [26/Feb/2026 12:18:04] "GET /web/static/fonts/lato/Lato-Hai-webfont.woff HTTP/1.1" 200 - 0 0.000 0.006
+2026-02-26 12:18:04,311 1 INFO ? werkzeug: 172.22.0.1 - - [26/Feb/2026 12:18:04] "GET /web/static/fonts/lato/Lato-Bla-webfont.woff HTTP/1.1" 200 - 0 0.000 0.005
+2026-02-26 12:18:06,596 1 INFO odoo_qa odoo.addons.base.models.ir_actions_report: The PDF report has been generated for model: sale.order, records [1]. 
+2026-02-26 12:18:06,604 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/mail.compose.message/onchange HTTP/1.1" 200 - 145 0.107 2.686
+2026-02-26 12:18:06,631 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/mail.template/search_read HTTP/1.1" 200 - 2 0.003 0.006
+2026-02-26 12:18:06,647 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/res.partner/get_formview_id HTTP/1.1" 200 - 1 0.002 0.007
+2026-02-26 12:18:06,661 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/mail.template/search_read HTTP/1.1" 200 - 2 0.004 0.008
+2026-02-26 12:18:06,706 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/res.partner/get_views HTTP/1.1" 200 - 15 0.020 0.020
+2026-02-26 12:18:06,728 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:06] "POST /web/dataset/call_kw/res.partner/web_read HTTP/1.1" 200 - 4 0.006 0.008
+2026-02-26 12:18:25,245 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:25] "POST /web/dataset/call_kw/res.partner/onchange HTTP/1.1" 200 - 6 0.007 0.216
+2026-02-26 12:18:26,530 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:26] "POST /web/dataset/call_kw/res.partner/web_save HTTP/1.1" 200 - 17 0.022 0.024
+2026-02-26 12:18:26,572 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:26] "POST /web/dataset/call_kw/res.partner/web_read HTTP/1.1" 200 - 4 0.007 0.014
+2026-02-26 12:18:28,461 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /web/dataset/call_kw/mail.compose.message/web_save HTTP/1.1" 200 - 18 0.014 0.019
+2026-02-26 12:18:28,644 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /web/dataset/call_kw/mail.compose.message/action_send_mail HTTP/1.1" 200 - 105 0.080 0.092
+2026-02-26 12:18:28,711 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /mail/thread/messages HTTP/1.1" 200 - 22 0.033 0.018
+2026-02-26 12:18:28,763 1 INFO ? werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "GET /web/static/img/mimetypes/pdf.svg HTTP/1.1" 200 - 0 0.000 0.007
+2026-02-26 12:18:28,785 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /web/dataset/call_kw/sale.order/web_read HTTP/1.1" 200 - 39 0.075 0.048
+2026-02-26 12:18:28,841 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /mail/thread/data HTTP/1.1" 200 - 27 0.025 0.022
+2026-02-26 12:18:28,858 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:28] "POST /web/dataset/call_kw/ir.attachment/register_as_main_attachment HTTP/1.1" 200 - 4 0.004 0.006
+2026-02-26 12:18:32,460 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:32] "POST /web/dataset/call_button/sale.order/action_confirm HTTP/1.1" 200 - 125 0.141 0.121
+2026-02-26 12:18:32,513 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:32] "POST /mail/thread/messages HTTP/1.1" 200 - 19 0.023 0.013
+2026-02-26 12:18:32,576 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:32] "POST /web/dataset/call_kw/sale.order/web_read HTTP/1.1" 200 - 48 0.054 0.043
+2026-02-26 12:18:32,632 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:32] "POST /mail/thread/data HTTP/1.1" 200 - 27 0.026 0.021
+2026-02-26 12:18:45,797 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:45] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 6 0.013 0.027
+2026-02-26 12:18:45,823 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:45] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 3 0.016 0.043
+2026-02-26 12:18:45,874 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:45] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 50 0.082 0.031
+2026-02-26 12:18:54,041 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:18:54] "POST /web/dataset/call_kw/stock.picking.type/web_search_read HTTP/1.1" 200 - 12 0.014 0.018
+2026-02-26 12:19:01,390 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:01] "POST /web/action/run HTTP/1.1" 200 - 16 0.005 0.013
+2026-02-26 12:19:01,434 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:01] "POST /web/dataset/call_kw/stock.picking/web_search_read HTTP/1.1" 200 - 12 0.014 0.013
+2026-02-26 12:19:06,972 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:06] "POST /web/dataset/call_kw/stock.picking/web_read HTTP/1.1" 200 - 23 0.023 0.018
+2026-02-26 12:19:07,006 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:07] "POST /web/dataset/call_kw/stock.picking.type/has_access HTTP/1.1" 200 - 1 0.002 0.007
+2026-02-26 12:19:07,148 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:07] "POST /mail/thread/data HTTP/1.1" 200 - 26 0.045 0.067
+2026-02-26 12:19:07,149 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:07] "POST /mail/thread/messages HTTP/1.1" 200 - 17 0.043 0.025
+2026-02-26 12:19:10,210 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:10] "POST /web/dataset/call_button/stock.picking/button_validate HTTP/1.1" 200 - 82 0.079 0.091
+2026-02-26 12:19:10,289 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:10] "POST /mail/thread/messages HTTP/1.1" 200 - 19 0.042 0.021
+2026-02-26 12:19:10,295 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:10] "POST /web/dataset/call_kw/stock.picking/web_read HTTP/1.1" 200 - 20 0.043 0.024
+2026-02-26 12:19:10,367 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:10] "POST /mail/thread/data HTTP/1.1" 200 - 21 0.032 0.030
+2026-02-26 12:19:23,967 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:23] "POST /web/action/load HTTP/1.1" 200 - 11 0.010 0.010
+2026-02-26 12:19:24,098 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:24] "POST /web/dataset/call_kw/product.product/get_views HTTP/1.1" 200 - 43 0.031 0.079
+2026-02-26 12:19:24,126 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:24] "POST /web/dataset/call_kw/stock.warehouse/get_current_warehouses HTTP/1.1" 200 - 2 0.009 0.010
+2026-02-26 12:19:24,129 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:24] "POST /web/dataset/call_kw/product.product/search_panel_select_multi_range HTTP/1.1" 200 - 3 0.009 0.011
+2026-02-26 12:19:24,154 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:24] "POST /web/dataset/call_kw/product.product/web_search_read HTTP/1.1" 200 - 3 0.005 0.008
+2026-02-26 12:19:24,235 1 INFO ? werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:24] "GET /web/static/img/smiling_face.svg HTTP/1.1" 200 - 0 0.000 0.005
+2026-02-26 12:19:30,273 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:30] "POST /web/dataset/call_kw/product.template/web_search_read HTTP/1.1" 200 - 16 0.015 0.022
+2026-02-26 12:19:34,893 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:34] "POST /web/dataset/call_kw/product.template/web_read HTTP/1.1" 200 - 52 0.053 0.042
+2026-02-26 12:19:34,966 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:34] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.005 0.014
+2026-02-26 12:19:34,976 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:34] "POST /mail/thread/data HTTP/1.1" 200 - 18 0.030 0.020
+2026-02-26 12:19:51,223 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:51] "POST /web/dataset/call_kw/product.template/onchange HTTP/1.1" 200 - 49 0.066 0.073
+2026-02-26 12:19:58,166 1 WARNING odoo_qa odoo.http: No puede cambiar el seguimiento del inventario de un producto que ya se utilizó. 
+2026-02-26 12:19:58,166 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:19:58] "POST /web/dataset/call_kw/product.template/web_save HTTP/1.1" 200 - 5 0.010 0.024
+2026-02-26 12:20:08,288 1 WARNING odoo_qa odoo.http: No puede cambiar el seguimiento del inventario de un producto que ya se utilizó. 
+2026-02-26 12:20:08,288 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:08] "POST /web/dataset/call_kw/product.template/web_save HTTP/1.1" 200 - 5 0.010 0.010
+2026-02-26 12:20:32,154 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:32] "POST /web/action/load HTTP/1.1" 200 - 11 0.017 0.015
+2026-02-26 12:20:32,189 1 WARNING odoo_qa odoo.http: No puede cambiar el seguimiento del inventario de un producto que ya se utilizó. 
+2026-02-26 12:20:32,190 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:32] "POST /web/dataset/call_kw/product.template/web_save HTTP/1.1" 200 - 5 0.009 0.010
+2026-02-26 12:20:38,044 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:38] "POST /web/dataset/call_kw/purchase.order/get_views HTTP/1.1" 200 - 86 0.080 0.084
+2026-02-26 12:20:38,066 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:38] "POST /web/dataset/call_kw/purchase.order/web_search_read HTTP/1.1" 200 - 2 0.003 0.009
+2026-02-26 12:20:38,146 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:38] "POST /web/dataset/call_kw/purchase.order/retrieve_dashboard HTTP/1.1" 200 - 13 0.010 0.014
+2026-02-26 12:20:45,070 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:45] "POST /web/dataset/call_kw/purchase.order/onchange HTTP/1.1" 200 - 10 0.017 0.022
+2026-02-26 12:20:59,330 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:59] "POST /web/action/load HTTP/1.1" 200 - 12 0.017 0.014
+2026-02-26 12:20:59,359 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:59] "POST /web/dataset/call_kw/purchase.order/web_search_read HTTP/1.1" 200 - 2 0.004 0.007
+2026-02-26 12:20:59,447 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:20:59] "POST /web/dataset/call_kw/purchase.order/retrieve_dashboard HTTP/1.1" 200 - 12 0.017 0.016
+2026-02-26 12:21:00,962 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:00] "POST /web/dataset/call_kw/product.template/web_read HTTP/1.1" 200 - 52 0.060 0.044
+2026-02-26 12:21:01,047 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:01] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.014 0.013
+2026-02-26 12:21:01,061 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:01] "POST /mail/thread/data HTTP/1.1" 200 - 18 0.031 0.033
+2026-02-26 12:21:05,437 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:05] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 1 0.002 0.012
+2026-02-26 12:21:05,472 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:05] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 3 0.009 0.035
+2026-02-26 12:21:05,501 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:21:05] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 50 0.047 0.028
+2026-02-26 12:33:20,018 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:33:20] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 4 0.009 0.043
+2026-02-26 12:33:20,125 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:33:20] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 50 0.112 0.049
+2026-02-26 12:33:25,903 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:33:25] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 50 0.039 0.015
+2026-02-26 12:33:25,947 1 INFO odoo_qa werkzeug: 192.168.1.193 - - [26/Feb/2026 12:33:25] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 3 0.008 0.019
+2026-02-26 12:34:24,979 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) starting 
+2026-02-26 12:34:24,990 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) done in 0.011s 
+2026-02-26 12:34:24,999 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,003 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) completed 
+2026-02-26 12:34:25,025 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) starting 
+2026-02-26 12:34:25,048 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) done in 0.023s 
+2026-02-26 12:34:25,054 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,062 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) completed 
+2026-02-26 12:34:25,084 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) starting 
+2026-02-26 12:34:25,092 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) done in 0.008s 
+2026-02-26 12:34:25,100 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,107 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) completed 
+2026-02-26 12:34:25,125 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) starting 
+2026-02-26 12:34:25,430 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) done in 0.305s 
+2026-02-26 12:34:25,437 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,441 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) completed 
+2026-02-26 12:34:25,469 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) starting 
+2026-02-26 12:34:25,483 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) done in 0.013s 
+2026-02-26 12:34:25,488 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,493 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) completed 
+2026-02-26 12:34:25,503 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) starting 
+2026-02-26 12:34:25,506 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) done in 0.002s 
+2026-02-26 12:34:25,509 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) processed 0 records, 0 records remaining 
+2026-02-26 12:34:25,512 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) completed 
+2026-02-26 12:35:35,912 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) starting 
+2026-02-26 12:35:35,920 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) done in 0.008s 
+2026-02-26 12:35:35,925 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) processed 0 records, 0 records remaining 
+2026-02-26 12:35:35,929 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) completed 
