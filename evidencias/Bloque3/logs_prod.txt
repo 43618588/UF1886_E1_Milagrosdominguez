@@ -1,0 +1,100 @@
+2026-02-27 14:06:13,146 1 INFO ? odoo: Using configuration file at /tmp/odoo.conf 
+2026-02-27 14:06:13,146 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/var/lib/odoo/.local/share/Odoo/addons/18.0', '/mnt/extra-addons'] 
+2026-02-27 14:06:13,146 1 INFO ? odoo: database: odoo_prod@postgres:5432 
+Warn: Can't find .pfb for face 'Courier'
+2026-02-27 14:06:14,002 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2026-02-27 14:06:14,223 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltoimage binary at /usr/local/bin/wkhtmltoimage 
+2026-02-27 14:06:14,989 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on eeae719f0a04:8069 
+2026-02-27 14:06:15,222 1 INFO odoo_prod odoo.modules.loading: loading 1 modules... 
+2026-02-27 14:06:15,230 1 INFO odoo_prod odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries (+0 extra) 
+2026-02-27 14:06:15,568 1 INFO odoo_prod odoo.modules.loading: loading 74 modules... 
+2026-02-27 14:06:18,717 1 INFO odoo_prod odoo.modules.loading: 74 modules loaded in 3.15s, 0 queries (+0 extra) 
+2026-02-27 14:06:19,171 1 INFO odoo_prod odoo.modules.loading: Modules loaded. 
+2026-02-27 14:06:19,204 1 INFO odoo_prod odoo.modules.registry: Registry loaded in 4.194s 
+2026-02-27 14:07:19,482 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Base: Auto-vacuum internal data' (1) starting 
+2026-02-27 14:07:19,688 1 INFO odoo_prod odoo.addons.base.models.ir_attachment: filestore gc 6 checked, 2 removed 
+2026-02-27 14:07:19,781 1 INFO odoo_prod odoo.addons.base.models.res_users: GC'd 1 user log entries 
+2026-02-27 14:07:19,818 1 INFO odoo_prod odoo.addons.base.models.res_users: GC 'res.users.apikeys' delete 0 entries 
+2026-02-27 14:07:19,835 1 INFO odoo_prod odoo.addons.base.models.res_device: GC device logs delete 0 entries 
+2026-02-27 14:07:19,840 1 INFO odoo_prod odoo.addons.base.models.res_device: GC device logs delete 0 entries 
+2026-02-27 14:07:19,860 1 INFO odoo_prod odoo.models.unlink: User #1 deleted base.module.update records with IDs: [1] 
+2026-02-27 14:07:19,877 1 INFO odoo_prod odoo.models.unlink: User #1 deleted base.module.upgrade records with IDs: [1] 
+2026-02-27 14:07:19,927 1 INFO odoo_prod odoo.addons.base.models.res_users: GC 'auth_totp.device' delete 0 entries 
+2026-02-27 14:07:20,065 1 INFO odoo_prod odoo.models.unlink: User #1 deleted bus.presence records with IDs: [1] 
+2026-02-27 14:07:20,413 1 INFO odoo_prod odoo.addons.sms.models.sms_sms: GC'd 0 sms marked for deletion 
+2026-02-27 14:07:20,483 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Notification: Delete Notifications older than 6 Month' (5) starting 
+2026-02-27 14:07:20,517 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Notification: Delete Notifications older than 6 Month' (5) done in 0.034s 
+2026-02-27 14:07:20,529 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Notification: Delete Notifications older than 6 Month' (5) processed 0 records, 0 records remaining 
+2026-02-27 14:07:20,569 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Notification: Delete Notifications older than 6 Month' (5) completed 
+2026-02-27 14:07:20,604 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: Post scheduled messages' (7) starting 
+2026-02-27 14:07:20,618 1 INFO odoo_prod odoo.addons.mail.models.mail_scheduled_message: Posting 0 scheduled messages 
+2026-02-27 14:07:20,623 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: Post scheduled messages' (7) done in 0.019s 
+2026-02-27 14:07:20,644 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: Post scheduled messages' (7) processed 0 records, 0 records remaining 
+2026-02-27 14:07:20,663 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: Post scheduled messages' (7) completed 
+2026-02-27 14:07:20,694 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) starting 
+2026-02-27 14:07:20,701 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) done in 0.007s 
+2026-02-27 14:07:20,707 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) processed 0 records, 0 records remaining 
+2026-02-27 14:07:20,712 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) completed 
+2026-02-27 14:07:20,729 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: send web push notification' (9) starting 
+2026-02-27 14:07:20,735 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: send web push notification' (9) done in 0.005s 
+2026-02-27 14:07:20,740 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: send web push notification' (9) processed 0 records, 0 records remaining 
+2026-02-27 14:07:20,742 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: send web push notification' (9) completed 
+2026-02-27 14:07:20,780 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Discuss: channel member unmute' (10) starting 
+2026-02-27 14:07:20,789 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Discuss: channel member unmute' (10) done in 0.008s 
+2026-02-27 14:07:20,803 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Discuss: channel member unmute' (10) processed 0 records, 0 records remaining 
+2026-02-27 14:07:20,814 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Discuss: channel member unmute' (10) completed 
+2026-02-27 14:07:20,868 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Discuss: users settings unmute' (11) starting 
+2026-02-27 14:07:20,884 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Discuss: users settings unmute' (11) done in 0.015s 
+2026-02-27 14:07:20,906 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Discuss: users settings unmute' (11) processed 0 records, 0 records remaining 
+2026-02-27 14:07:20,922 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Discuss: users settings unmute' (11) completed 
+2026-02-27 14:07:20,959 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) starting 
+2026-02-27 14:07:21,025 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Base: Auto-vacuum internal data' (1) done in 1.543s 
+2026-02-27 14:07:21,043 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Base: Auto-vacuum internal data' (1) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,044 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) done in 0.085s 
+2026-02-27 14:07:21,050 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,055 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) completed 
+2026-02-27 14:07:21,074 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Base: Auto-vacuum internal data' (1) completed 
+2026-02-27 14:07:21,108 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) starting 
+2026-02-27 14:07:21,126 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Send invoices automatically' (19) starting 
+2026-02-27 14:07:21,130 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) done in 0.022s 
+2026-02-27 14:07:21,145 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,156 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) completed 
+2026-02-27 14:07:21,188 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Sales: Send pending emails' (21) starting 
+2026-02-27 14:07:21,198 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Send invoices automatically' (19) done in 0.071s 
+2026-02-27 14:07:21,211 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Sales: Send pending emails' (21) done in 0.023s 
+2026-02-27 14:07:21,212 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Send invoices automatically' (19) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,224 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Sales: Send pending emails' (21) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,227 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Send invoices automatically' (19) completed 
+2026-02-27 14:07:21,230 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Sales: Send pending emails' (21) completed 
+2026-02-27 14:07:21,252 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Purchase reminder' (23) starting 
+2026-02-27 14:07:21,278 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Calendar: Event Reminder' (24) starting 
+2026-02-27 14:07:21,334 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Purchase reminder' (23) done in 0.081s 
+2026-02-27 14:07:21,346 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Purchase reminder' (23) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,351 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Calendar: Event Reminder' (24) done in 0.073s 
+2026-02-27 14:07:21,354 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Purchase reminder' (23) completed 
+2026-02-27 14:07:21,364 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Calendar: Event Reminder' (24) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,372 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Calendar: Event Reminder' (24) completed 
+2026-02-27 14:07:21,386 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) starting 
+2026-02-27 14:07:21,394 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Procurement: run scheduler' (28) starting 
+2026-02-27 14:07:21,455 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) done in 0.069s 
+2026-02-27 14:07:21,462 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,472 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'CRM: enrich leads (IAP)' (27) completed 
+2026-02-27 14:07:21,496 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) starting 
+2026-02-27 14:07:21,511 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) done in 0.015s 
+2026-02-27 14:07:21,518 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,525 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) completed 
+2026-02-27 14:07:21,545 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Users: Notify About Unregistered Users' (12) starting 
+2026-02-27 14:07:21,593 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Users: Notify About Unregistered Users' (12) done in 0.048s 
+2026-02-27 14:07:21,626 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Procurement: run scheduler' (28) done in 0.231s 
+2026-02-27 14:07:21,628 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Users: Notify About Unregistered Users' (12) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,651 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Users: Notify About Unregistered Users' (12) completed 
+2026-02-27 14:07:21,670 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Procurement: run scheduler' (28) processed 3 records, 0 records remaining 
+2026-02-27 14:07:21,695 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Procurement: run scheduler' (28) completed 
+2026-02-27 14:07:21,741 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) starting 
+2026-02-27 14:07:21,758 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) done in 0.017s 
+2026-02-27 14:07:21,764 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,773 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) completed 
+2026-02-27 14:07:21,787 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Base: Portal Users Deletion' (2) starting 
+2026-02-27 14:07:21,796 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Base: Portal Users Deletion' (2) done in 0.009s 
+2026-02-27 14:07:21,800 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Base: Portal Users Deletion' (2) processed 0 records, 0 records remaining 
+2026-02-27 14:07:21,806 1 INFO odoo_prod odoo.addons.base.models.ir_cron: Job 'Base: Portal Users Deletion' (2) completed 
